@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f6bfe185-c20f-430e-a1e7-f0afa752d835",
+    "title": "test",
+    "completed": false
+  },
+  {
+    "id": "n1",
+    "title": "Read todos in a server component",
+    "completed": false
+  },
+  {
+    "id": "n2",
+    "title": "Submit new todos with a server action",
+    "completed": true
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t1",
+    "title": "Read todos through a route loader",
+    "completed": false
+  },
+  {
+    "id": "t2",
+    "title": "Write todos with a server function",
+    "completed": true
+  }
+]

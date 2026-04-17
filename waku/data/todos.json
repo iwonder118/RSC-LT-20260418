@@ -1,0 +1,12 @@
+[
+  {
+    "id": "w1",
+    "title": "Fetch todos in a server component",
+    "completed": false
+  },
+  {
+    "id": "w2",
+    "title": "Mutate todos with a server action",
+    "completed": true
+  }
+]
