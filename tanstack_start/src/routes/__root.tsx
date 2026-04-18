@@ -22,6 +22,7 @@ export const Route = createRootRoute({
     ],
   }),
   component: RootComponent,
+  notFoundComponent: NotFoundComponent,
 });
 
 function RootComponent() {
@@ -43,5 +44,17 @@ function RootDocument({ children }: Readonly<{ children: ReactNode }>) {
         <Scripts />
       </body>
     </html>
+  );
+}
+
+function NotFoundComponent() {
+  return (
+    <main className="page-shell">
+      <section className="hero-card">
+        <p className="eyebrow">TanStack Start</p>
+        <h1>Not Found</h1>
+        <p className="lede">The requested route does not exist.</p>
+      </section>
+    </main>
   );
 }

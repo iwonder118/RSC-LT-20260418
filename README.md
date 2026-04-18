@@ -2,6 +2,9 @@
 
 `next`、`tanstack_start`、`waku` を並べて、React Server Components の実装方針を比較するためのワークスペースです。
 
+## 最終的に作ったスライド
+[今更RSCについてのお話 Full RSC vs RSC as Data Next.jsとTanStack Start比較](https://speakerdeck.com/iwonder118/jin-geng-rscnituitenoohua-full-rsc-vs-rsc-as-data-next-dot-jstotanstack-startbi-jiao)
+
 ## Directory Layout
 
 - `next/`: Next.js App Router を前提にした RSC 実装方針
